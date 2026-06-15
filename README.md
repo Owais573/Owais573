@@ -4,9 +4,7 @@
 
 </div>
 
-
 <br>
-
 
 <div align="center">
 
@@ -14,12 +12,9 @@
 
 </div>
 
-
 <br>
 
 <div align="center">
-
-# Hi, I'm Owais 👋
 
 ### 🚀 AI Product Engineer | Full Stack Developer | Building Production AI SaaS
 
