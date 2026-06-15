@@ -1,5 +1,11 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0D1117,50:111827,100:2563EB&text=Owais%20Ansari&fontColor=00E5FF&fontSize=55&animation=twinkling&stroke=38BDF8&strokeWidth=1&desc=AI%20Product%20Engineer%20%7C%20Building%20Agentic%20AI%20Systems&descSize=18&descAlignY=65"/>
+
+</div>
+
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi,+I'm+Owais+Ansari+👋;AI+Product+Engineer;Full+Stack+Developer;Building+Agentic+AI+Systems" />
 
 </div>
