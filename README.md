@@ -1,13 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0D1117,50:111827,100:2563EB&text=Owais%20Ansari&fontColor=00E5FF&fontSize=55&animation=twinkling&stroke=38BDF8&strokeWidth=1&desc=AI%20Product%20Engineer%20%7C%20Building%20Agentic%20AI%20Systems&descSize=18&descAlignY=65"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img width="700" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
@@ -15,6 +7,8 @@
 <br>
 
 <div align="center">
+
+# Hi, I'm Owais 👋
 
 ### 🚀 AI Product Engineer | Full Stack Developer | Building Production AI SaaS
 
