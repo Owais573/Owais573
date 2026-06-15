@@ -4,12 +4,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi,+I'm+Owais+Ansari+👋;AI+Product+Engineer;Full+Stack+Developer;Building+Agentic+AI+Systems" />
-
-</div>
-
 
 <br>
 
