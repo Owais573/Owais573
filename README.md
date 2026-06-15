@@ -49,7 +49,16 @@ Currently exploring:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logo=graphql&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+
+### AI Engineering
+
+![RAG](https://img.shields.io/badge/RAG_Systems-000000?style=for-the-badge&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-7B42F6?style=for-the-badge&logo=robotframework&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_Database-3ECF8E?style=for-the-badge&logo=databricks&logoColor=white)
+![LLM Apps](https://img.shields.io/badge/LLM_Applications-FFB000?style=for-the-badge&logo=ollama&logoColor=black)
 
 ### Database & Cloud
 
@@ -191,7 +200,7 @@ React • FastAPI • Computer Vision • LLM
 
 💼 LinkedIn: https://www.linkedin.com/in/owais-ansari-4313aa1ab/
 
-🌐 Portfolio: https://supremedev.com
+🌐 Portfolio: https://SupdevX.com
 
 📧 Open to collaborate on AI SaaS, Automation & Full Stack Projects
 
