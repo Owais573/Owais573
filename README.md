@@ -1,5 +1,23 @@
 <div align="center">
 
+<img 
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=Hi,%20I'm%20Owais%20Ansari%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+/>
+
+</div>
+
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+Product+Engineer+🚀;Full+Stack+Developer+⚡;Building+Production+AI+SaaS+Products;Agentic+AI+%7C+RAG+%7C+Automation+Systems" />
+
+</div>
+
+
+<br/>
+
+<div align="center">
+
 # Hi, I'm Owais 👋
 
 ### 🚀 AI Product Engineer | Full Stack Developer | Building Production AI SaaS
