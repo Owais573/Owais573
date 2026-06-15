@@ -1,0 +1,205 @@
+<div align="center">
+
+# Hi, I'm Owais 👋
+
+### 🚀 AI Product Engineer | Full Stack Developer | Building Production AI SaaS
+
+I build intelligent software products using modern web technologies, AI agents, automation pipelines, and scalable cloud architectures.
+
+From idea → architecture → development → deployment.
+
+</div>
+
+
+---
+
+## 🧠 About Me
+
+I'm a Full Stack Developer passionate about building **AI-powered SaaS products, Agentic AI platforms, and automation systems**.
+
+My work focuses on combining:
+
+- 🤖 Large Language Models (LLMs)
+- 🧠 AI Agents & RAG Systems
+- ⚡ Modern Web Applications
+- ☁️ Cloud Infrastructure
+- 🎨 Premium Product UI/UX
+
+I enjoy transforming complex business problems into simple, scalable software products.
+
+Currently exploring:
+- Agentic AI Workflows
+- AI Automation Systems
+- Multi-Agent Architectures
+- AI Native SaaS Products
+
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+### Backend & AI
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+
+### Database & Cloud
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+
+
+---
+
+# 🚀 Featured Projects
+
+
+## 🤖 MySmartPA — Enterprise Agentic AI Platform
+
+Multi-tenant AI Agent platform built for businesses.
+
+### Highlights
+
+- Custom AI Agent Builder
+- RAG Knowledge System
+- Multi-tenant Workspaces
+- RBAC Permission Engine
+- Azure AI Integration
+- Super Admin Console
+- Agent Marketplace Architecture
+
+**Stack**
+
+Next.js 15 • FastAPI • Azure AI Foundry • PostgreSQL • pgVector • Azure Blob Storage
+
+
+---
+
+
+## ⚡ ResolverX — AI IT Support Assistant
+
+Enterprise AI support automation platform powered by Retrieval Augmented Generation.
+
+### Highlights
+
+- Custom Support Agents
+- Document Knowledge Bases
+- Hybrid Vector Search
+- AI Reranking
+- Streaming Chat Interface
+- Analytics Dashboard
+- Embeddable AI Widget
+
+**Stack**
+
+React • FastAPI • Supabase • OpenAI • pgVector
+
+
+---
+
+
+## 📊 AI Operations Automation
+
+Agentic workflow system replacing manual ERP reporting processes.
+
+### Highlights
+
+- LangGraph Agent Pipeline
+- Data Cleaning Agent
+- Analysis Agent
+- Report Generation Agent
+- Human Approval Workflow
+- Automated Scheduling
+
+**Stack**
+
+Python • FastAPI • LangGraph • LangChain • Next.js
+
+
+---
+
+
+## 📄 Papryx — Modern PDF Workspace
+
+Browser-first PDF editing platform.
+
+### Highlights
+
+- PDF Editor
+- Merge / Split / Compress
+- OCR Processing
+- Digital Signature System
+- Privacy-first Processing
+- No Persistent Storage Architecture
+
+**Stack**
+
+Next.js • FastAPI • PDF-lib • OCR • Python
+
+
+---
+
+
+## 🥗 NutriScan AI
+
+AI-powered nutrition label analyzer.
+
+### Highlights
+
+- Image-based Nutrition Scanning
+- OCR Extraction
+- AI Health Analysis
+- Personalized Suggestions
+
+**Stack**
+
+React • FastAPI • Computer Vision • LLM
+
+
+---
+
+
+## 🎨 Other Work
+
+- Luxury Business Websites
+- SaaS Dashboards
+- Automation Tools
+- E-commerce Platforms
+
+
+---
+
+## 📈 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Owais573&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Owais573&layout=compact&theme=github_dark)
+
+
+---
+
+## 🌎 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/owais-ansari-4313aa1ab/
+
+🌐 Portfolio: https://supremedev.com
+
+📧 Open to collaborate on AI SaaS, Automation & Full Stack Projects
+
+
+---
+
+<div align="center">
+
+### "Building AI products that solve real-world problems."
+
+</div>
