@@ -1,20 +1,28 @@
 <div align="center">
 
-<img 
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=Hi,%20I'm%20Owais%20Ansari%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
-/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0D1117,50:111827,100:2563EB&text=Owais%20Ansari&fontColor=00E5FF&fontSize=55&animation=twinkling&stroke=38BDF8&strokeWidth=1&desc=AI%20Product%20Engineer%20%7C%20Building%20Agentic%20AI%20Systems&descSize=18&descAlignY=65"/>
 
 </div>
 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+Product+Engineer+🚀;Full+Stack+Developer+⚡;Building+Production+AI+SaaS+Products;Agentic+AI+%7C+RAG+%7C+Automation+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=⚡+Building+Production+AI+SaaS;🤖+Agentic+AI+%7C+RAG+%7C+LLM+Apps;🧠+LangGraph+%7C+LangChain+Engineer;🚀+From+Idea+→+Architecture+→+Deployment" />
 
 </div>
 
 
-<br/>
+<br>
+
+
+<div align="center">
+
+<img width="850" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif">
+
+</div>
+
+
+<br>
 
 <div align="center">
 
